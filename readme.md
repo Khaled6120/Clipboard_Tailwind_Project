@@ -1,6 +1,9 @@
 # Project Overview (Clipboard Website)
 A layout designed using Tailwind CSS, HTML-5 and JS
 
+## Live demo
+[Live] : (https://khaled6120.github.io/Clipboard_Tailwind_Project/)
+
 ## Install dependencies
 
 ```
